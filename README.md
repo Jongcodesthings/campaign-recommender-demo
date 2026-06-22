@@ -1,4 +1,5 @@
 # Campaign Channel Recommender — Public Demo
+<!-- deployed via Azure Static Web Apps -->
 
 A standalone, offline, single-file web tool that recommends communications channels
 across the campaign funnel. No backend, no build step, no database — `index.html`
